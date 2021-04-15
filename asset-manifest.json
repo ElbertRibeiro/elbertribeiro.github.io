@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.a95b3ea5.chunk.js",
+    "main.js.map": "/static/js/main.a95b3ea5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1b294c6d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1b294c6d.js.map",
+    "static/js/2.277c752d.chunk.js": "/static/js/2.277c752d.chunk.js",
+    "static/js/2.277c752d.chunk.js.map": "/static/js/2.277c752d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.277c752d.chunk.js.LICENSE.txt": "/static/js/2.277c752d.chunk.js.LICENSE.txt",
+    "static/media/To-do.f63bacc8.png": "/static/media/To-do.f63bacc8.png",
+    "static/media/challenge.305eb28d.jpg": "/static/media/challenge.305eb28d.jpg",
+    "static/media/chatbot.68e5f6d5.png": "/static/media/chatbot.68e5f6d5.png",
+    "static/media/curriculo.4e54bb1b.pdf": "/static/media/curriculo.4e54bb1b.pdf",
+    "static/media/dev.finance.a5c85e35.png": "/static/media/dev.finance.a5c85e35.png",
+    "static/media/headshot.144f67a2.jpg": "/static/media/headshot.144f67a2.jpg",
+    "static/media/spiderman.29e3385e.png": "/static/media/spiderman.29e3385e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b294c6d.js",
+    "static/js/2.277c752d.chunk.js",
+    "static/js/main.a95b3ea5.chunk.js"
+  ]
+}
