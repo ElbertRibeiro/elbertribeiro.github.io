@@ -5,20 +5,16 @@ export const Head = styled.div`
     height: 560px;
     left: 258px;
     top: 219px;
-
     padding: 28px;
-
     align-items: center;
     justify-content: center;
-
     margin: 0 auto;
 
     @media (max-width: 960px) {
-        align-items: initial;
-        justify-content: left;
-        color: red;
-        right: 300%;
-        width: 100%;
+        //align-items: initial;
+        //justify-content: left;
+        //right: 300%;
+        width: 90%;
     }
 `;
 
@@ -34,7 +30,16 @@ export const Description = styled.div`
         }
     }
     @media (max-width: 960px) {
-        margin-left: 85px;
+        margin-left: 30%;
+        align-items: center;
+        width: 20px;
+        h2 {
+            display: none;
+        }
+         h4 {
+            width: 200px;
+            height: 30px;
+        }
     }
 `;
 
@@ -47,7 +52,9 @@ export const Headshot = styled.img`
     border-radius: 100%;
 
     @media (max-width: 960px){
-        margin-left: 60px;
+        margin-left: 30%;
+        width: 130px;
+        height: 140px;
     }
 `;
 
@@ -66,9 +73,8 @@ export const GroupIcon = styled.div`
     }
 
     @media (max-width: 960px) {
-        width: 100%;
         justify-content: initial;
-        margin: 0 45px;
+        margin-left: 20%;
     }
 `;
 
@@ -77,10 +83,6 @@ export const Button = styled.div`
     margin: 0 auto;
     justify-content: center;
     width: 418.05px;
-
-    @media (max-width: 960px) {
-        margin: 0 auto;
-        }
 
     a {
         outline: none;
@@ -101,20 +103,19 @@ export const Button = styled.div`
         }
         img {
             margin: 10px 75px;
-
             @media (max-width: 960px){
-                margin: 10px 50px;
+                margin: 10px 40px;
             }
         }
 
         @media (max-width: 960px) {
-            margin: 0 60px;
-            margin-left: -20px;
+            margin-left: -5%;
             width: 30%;
         }
         
     }
     @media (max-width: 960px) {
-        margin-left: -20px;
+        margin: 4%;
+        width: 100%;
     }
 `;

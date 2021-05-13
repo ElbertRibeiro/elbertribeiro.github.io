@@ -22,23 +22,23 @@ export default function Header(props) {
                 </Description>
                 <GroupIcon className="group-icon">
                     <a href="https://github.com/ElbertRibeiro">
-                        <img src={iconGithub} alt="" />
+                        <img src={iconGithub} alt="GitHub" />
                     </a>
                     <a href="https://www.instagram.com/elbertnilton/">
-                        <img src={iconInstagram} alt="" />
+                        <img src={iconInstagram} alt="Instagram" />
                     </a>
                     <a href="https://www.linkedin.com/in/elbert-ribeiro/">
-                        <img src={iconLinkedin} alt="" />
+                        <img src={iconLinkedin} alt="Linkedin" />
                     </a>
 
                 </GroupIcon>
             </Bounce>
             <Button className="button">
                 <a href='mailto:elbertprofissional@gmail.com'>
-                    <img src={iconEmail} alt="" />
+                    <img src={iconEmail} alt="E-mail" />
                 </a>
                 <a href='http://api.whatsapp.com/send?1=pt_BR&phone=5591981477039'>
-                    <img src={iconWhatsapp} alt="" />
+                    <img src={iconWhatsapp} alt="WhatsApp" />
                 </a>
             </Button>
         </Head>
