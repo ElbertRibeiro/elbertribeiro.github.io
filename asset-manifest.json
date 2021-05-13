@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.js": "/static/js/main.af075aa2.chunk.js",
-    "main.js.map": "/static/js/main.af075aa2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0061177f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0061177f.js.map",
-    "static/js/2.436d8f38.chunk.js": "/static/js/2.436d8f38.chunk.js",
-    "static/js/2.436d8f38.chunk.js.map": "/static/js/2.436d8f38.chunk.js.map",
+    "main.js": "/static/js/main.7f126bbd.chunk.js",
+    "main.js.map": "/static/js/main.7f126bbd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e1295efb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e1295efb.js.map",
+    "static/js/2.07fb019f.chunk.js": "/static/js/2.07fb019f.chunk.js",
+    "static/js/2.07fb019f.chunk.js.map": "/static/js/2.07fb019f.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.436d8f38.chunk.js.LICENSE.txt": "/static/js/2.436d8f38.chunk.js.LICENSE.txt",
-    "static/media/To-do.f63bacc8.png": "/static/media/To-do.f63bacc8.png",
-    "static/media/challenge.305eb28d.jpg": "/static/media/challenge.305eb28d.jpg",
-    "static/media/chatbot.68e5f6d5.png": "/static/media/chatbot.68e5f6d5.png",
-    "static/media/curriculo.4e54bb1b.pdf": "/static/media/curriculo.4e54bb1b.pdf",
-    "static/media/dev.finance.a5c85e35.png": "/static/media/dev.finance.a5c85e35.png",
-    "static/media/headshot.144f67a2.jpg": "/static/media/headshot.144f67a2.jpg",
-    "static/media/spiderman.29e3385e.png": "/static/media/spiderman.29e3385e.png"
+    "precache-manifest.df2b287979f161d4b93604ec485591d8.js": "/precache-manifest.df2b287979f161d4b93604ec485591d8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.07fb019f.chunk.js.LICENSE.txt": "/static/js/2.07fb019f.chunk.js.LICENSE.txt",
+    "static/media/To-do.png": "/static/media/To-do.746eb4da.png",
+    "static/media/challenge.jpg": "/static/media/challenge.244e736b.jpg",
+    "static/media/chatbot.png": "/static/media/chatbot.f73387e0.png",
+    "static/media/curriculo.pdf": "/static/media/curriculo.969c65f2.pdf",
+    "static/media/dev.finance.png": "/static/media/dev.finance.43d0e2cc.png",
+    "static/media/headshot.jpg": "/static/media/headshot.b0171267.jpg",
+    "static/media/spiderman.png": "/static/media/spiderman.71c75503.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0061177f.js",
-    "static/js/2.436d8f38.chunk.js",
-    "static/js/main.af075aa2.chunk.js"
+    "static/js/runtime-main.e1295efb.js",
+    "static/js/2.07fb019f.chunk.js",
+    "static/js/main.7f126bbd.chunk.js"
   ]
 }
