@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "414780177243020757d3e1eeaa71e9a0",
+    "revision": "a8f8e2fb3b6d65ed0b0da8b3bae5cc80",
     "url": "/index.html"
   },
   {
-    "revision": "1ebcc56025a8745ae261",
-    "url": "/static/js/2.07fb019f.chunk.js"
+    "revision": "c90bca3bd99c910dfbd1",
+    "url": "/static/js/2.9edb6df9.chunk.js"
   },
   {
-    "revision": "696b6c596c38de00c1bba12d4d6df163",
-    "url": "/static/js/2.07fb019f.chunk.js.LICENSE.txt"
+    "revision": "f7e623707d9b37a3821ec4c3548a4309",
+    "url": "/static/js/2.9edb6df9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aec724ff9c892209c9bf",
-    "url": "/static/js/main.7f126bbd.chunk.js"
+    "revision": "e87415d7457554beab11",
+    "url": "/static/js/main.27ab7d3a.chunk.js"
   },
   {
     "revision": "10a1ebe435e5e83d06e3",
@@ -30,10 +30,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f73387e0451db0e4ac358e2e3fb6a100",
     "url": "/static/media/chatbot.f73387e0.png"
-  },
-  {
-    "revision": "969c65f2f01017aa2ec311de26fa49c9",
-    "url": "/static/media/curriculo.969c65f2.pdf"
   },
   {
     "revision": "43d0e2cc87e1bb9971092a8799e08e5b",
