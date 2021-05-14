@@ -1,15 +1,10 @@
-import React from 'react';
-import { Document, Page } from 'react-pdf';
-
-import PDd from '../../assets/docs/curriculo.pdf';
-
+import React from "react";
 export default function Resume() {
-    return (
-        <div>
-            <p>a</p>
-            <Document file={PDd}>
-                <Page pageNumber={3} />
-            </Document>
-        </div>
-    );
+  return (
+    <embed
+      src="https://drive.google.com/file/d/1Qkkz08M3TWJ9B0bjoXaOq08tqqkVDrdz/view?usp=sharing"
+      width="auto"
+      height="auto"
+    />
+  );
 }
